@@ -1,0 +1,8 @@
+{
+  "name": "cargo365-admin",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
