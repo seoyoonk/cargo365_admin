@@ -12,7 +12,7 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class RestProvider {
   //public apiUrl = 'http://192.168.0.17:8081/';
-  public apiUrl = 'http://admin.cargo365.co.kr';
+  public apiUrl = 'https://admin.cargo365.co.kr/';
   
   constructor(public http: Http) {
     console.log('Hello RestProvider Provider');
